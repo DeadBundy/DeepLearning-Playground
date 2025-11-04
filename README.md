@@ -17,12 +17,4 @@ All experiments were conducted using **Jupyter Notebook** in the **Anaconda envi
 - TensorFlow / Keras / PyTorch (as applicable)  
 - Jupyter Notebook (Anaconda)
 
-## 🚀 Getting Started
-1. Clone the repository:
-   git clone https://github.com/your-username/NeuroViz.git
-   cd NeuroViz
-2.Launch Jupyter Notebook (via Anaconda)
-  jupyter notebook
-3.Open and run the notebooks
-  In the Jupyter interface, open the desired .ipynb file.
-  Run all cells sequentially to reproduce the results and visualizations.
+
